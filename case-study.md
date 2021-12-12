@@ -1,11 +1,11 @@
-# credit karma
+# credit karma Case Study
 
 ![company log](ck.png)
 
 ---
-## Company Description
+## What does credit karma do?
 
-Credit karma allows to fill in tax for free in return for curated offers. 
+Credit karma allows to file your taxes for free in return for curated offers. They also offer free credit monitoring using the VantageScore credit scores. Checking your credit on Credit Karma does not negatively impact your credit scores because these are considered "soft" inquires. Credit Karma has auto, personal, and home loans information where you can enter in the amount that you are looking to borrow along with your credit score and they will direct you to different offers that fit your needs. 
 
 ---
 
@@ -42,3 +42,5 @@ Credit karma allows to fill in tax for free in return for curated offers.
 
 - Manish
 - Jon
+
+## Is credit karma Worth the Price of Free?
